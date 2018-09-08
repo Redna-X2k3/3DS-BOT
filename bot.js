@@ -38,5 +38,5 @@ bot.on('message', function (user, userID, channelID, message, evt) {
      }
 });
 client.on("ready", () => {
-    client.user.setGame("with my code");
+    client.user.setGame("D&D");
 });
